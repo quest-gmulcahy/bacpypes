@@ -3,7 +3,7 @@
 Capabilities
 ============
 
-The `capabilty` module is used to mix together classes that provide both
+The `capability` module is used to mix together classes that provide both
 separate and overlapping functionality.  The original design was motivated
 by a component architecture where collections of components that needed to be
 mixed together were specified outside the application in a database.
